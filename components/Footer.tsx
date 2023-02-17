@@ -13,7 +13,7 @@ export default function Footer() {
         alt="love"
         className="mb-5 sm:mb-0"
       />
-      by Poo Boi
+      by Alexander
     </footer>
   );
 }

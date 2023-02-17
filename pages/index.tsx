@@ -80,9 +80,6 @@ const Home: NextPage = () => {
         <h1 className="sm:text-6xl text-4xl max-w-2xl font-bold text-slate-900">
           Generate your next breakup text in seconds
         </h1>
-        <h3 className="mt-4 sm:text-3xl max-w-2xl font-bold text-slate-900">
-          (cuffing season is over)
-        </h3>
         <p className="text-slate-500 mt-5">47,118 breakups generated so far.</p>
         <div className="max-w-xl w-full">
           <div className="flex mt-10 items-center space-x-3">
